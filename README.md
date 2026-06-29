@@ -17,3 +17,5 @@ I work mainly with AWS, Databricks, PySpark, Python, MLflow, and modern data eng
 - LLM-powered systems
 - Semantic search and recommendation systems
 - Cloud-native data platforms
+
+![Neural Network Contributions](./neural-contributions.svg)
